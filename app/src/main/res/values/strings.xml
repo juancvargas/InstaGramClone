@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">insta_clone</string>
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="login">Login</string>
+    <string name="description">description</string>
+    <string name="take_picture">Take Picture</string>
+    <string name="submit_post">Submit</string>
+    <string name="image_description">image attached to post</string>
+    <string name="logout">Logout</string>
+</resources>
